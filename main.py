@@ -13,7 +13,7 @@ def attack(char_name: str, char_class: str) -> str:
 
 
 def defence(char_name: str, char_class: str) -> str:
-    """Dehence."""
+    """Defence."""
     ...
 
 
